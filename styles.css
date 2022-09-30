@@ -196,8 +196,6 @@ svg {
     display: grid;
     grid-template-columns: 2fr 1fr;
 
-    border: 3px black solid;
-
     background-color:rgba(0, 0, 0, 0.897);
 }
 
